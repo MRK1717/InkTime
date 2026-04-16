@@ -6,9 +6,6 @@ This project focuses on the complete hardware design of the device, from system 
 
 The system integrates a microcontroller, an e-paper display, motion sensing, power management, and user interaction modules into a compact wearable device.
 
-![alt text](
-
-
 System Architecture
 The smartwatch is built around the following functional blocks:
 
